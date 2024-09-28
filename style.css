@@ -230,13 +230,12 @@ footer {
   display: flex;
   gap: 20px;
   align-items: center;
-  
 }
 
 .logo-1 {
   width: 23.86px;
   height: 19.75px;
-  transition: transform 0.5s ease-in-out ;
+  transition: transform 0.5s ease-in-out;
   cursor: pointer;
 }
 
@@ -245,7 +244,8 @@ footer {
   height: 100%;
   object-fit: contain;
 }
-.logo-1:hover{
+
+.logo-1:hover {
   transform: scale(1.1);
-  
+
 }
